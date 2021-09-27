@@ -1,4 +1,4 @@
-# Counter-Strike Global Offensive External Cheat
+# Triggered
 
 ![Screenshot_1](https://user-images.githubusercontent.com/66463744/134888109-f31a7dae-fff0-4a9f-b284-9db732d8e4b6.png)
 ## **Download**
