@@ -9,6 +9,10 @@ You can download the exe version of this cheat by clicking [here](https://github
 * GlowESP
 * Bunnyhop
 
+## **Modules I might add in the future**
+* Aimbot
+* MarkESP (basically wallhack for your teammates who don't use cheats)
+
 ## **Usage**
 This hack is pretty easy to use.
 All you gotta do is download the project, make sure you open the game and then launch the program. **(Although you may need to update the offsets since they can get outdated after some time. You can get up-to-date offsets by using [Hazedumper](https://github.com/frk1/hazedumper/blob/master/csgo.cs)**.
