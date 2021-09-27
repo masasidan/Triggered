@@ -9,7 +9,7 @@ You can download the exe version of this cheat by clicking [here](https://github
 * GlowESP
 * Bunnyhop
 
-## **Modules I might add in the future**
+## **Currently In Build Modules**
 * Aimbot
 * MarkESP (basically wallhack for your teammates who don't use cheats)
 
