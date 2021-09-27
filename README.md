@@ -2,7 +2,7 @@
 
 ![Screenshot_1](https://user-images.githubusercontent.com/66463744/134888109-f31a7dae-fff0-4a9f-b284-9db732d8e4b6.png)
 ## **Download**
-You can download the exe version of this cheat by clicking [here](https://github.com/idanii/CSGO-External-Cheats/releases/tag/TriggeredLauncher), if you ask me don't do that because you won't be able to change the offsets that way. (In case they got outdated)
+You can download the exe version of this cheat by clicking [here](https://github.com/idanii/CSGO-External-Cheats/releases/tag/TriggeredLauncher), but if you ask me don't do that because you won't be able to change the offsets that way. (In case they got outdated)
 
 ## **Modules**
 * Triggerbot
