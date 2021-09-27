@@ -25,4 +25,4 @@ All you gotta do is download the project, make sure you open the game and then l
 *Do you plan on creating other projects like this in the future?*
 > Of course. Game hacking is a subject I've always had interest in.
 
-*⚠️ **I've been working on this project for like 4 days so I don't really know if there are any problems with it. (I haven't tried to bypass valve's anti-cheat but as far as I saw I didn't get banned after one week of using it blatantly)***
+*⚠️ **I haven't tried to bypass valve's anti-cheat but as far as I saw I didn't get banned after one week of using it blatantly***
