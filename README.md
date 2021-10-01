@@ -1,6 +1,7 @@
 # Triggered
 
-![Screenshot_1](https://user-images.githubusercontent.com/66463744/134888109-f31a7dae-fff0-4a9f-b284-9db732d8e4b6.png)
+![Screenshot_1](https://user-images.githubusercontent.com/66463744/135653293-0ff3440e-d2b1-4e39-b687-22798475fced.png)
+
 ## **Download**
 You can download the exe version of this cheat by clicking [here](https://github.com/idanii/CSGO-External-Cheats/releases/tag/TriggeredLauncher), but if you ask me don't do that because you won't be able to change the offsets in case they got outdated, my best suggestion is to download the whole project and run it manually through Visual Studio.
 
@@ -8,10 +9,12 @@ You can download the exe version of this cheat by clicking [here](https://github
 * Triggerbot
 * GlowESP
 * Bunnyhop
+* Aimbot
+* ESP
+
 
 ## **Currently In Build Modules**
-* Aimbot
-* MarkESP (basically wallhack for your teammates who don't use cheats)
+* MarkESP (basically a wallhack for your teammates who don't use cheats)
 
 ## **Usage**
 This hack is pretty easy to use.
