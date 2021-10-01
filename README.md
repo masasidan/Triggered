@@ -17,7 +17,7 @@ You can download the exe version of this cheat by clicking [here](https://github
 * MarkESP (basically a wallhack for your teammates who don't use cheats)
 
 ## **Usage**
-This hack is pretty easy to use.
+This cheat is pretty easy to use.
 You can't change the keybinds for different modules, they are all already set.
 By pressing different keybinds you can toggle on/off different modules and enjoy the cheat.
 
