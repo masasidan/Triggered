@@ -18,7 +18,7 @@ You can download the exe version of this cheat by clicking [here](https://github
 
 ## **Usage**
 This cheat is pretty easy to use.
-You can't change the keybinds for different modules, they are all already set.
+You can't change the keybinds for different modules, they are all already have been set.
 By pressing different keybinds you can toggle on/off different modules and enjoy the cheat.
 
 ## **Q&A**
