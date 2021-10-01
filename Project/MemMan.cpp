@@ -26,10 +26,11 @@ DWORD MemMan::getProcess(const char* proc)
 			process = pEntry.th32ProcessID;
 			CloseHandle(hProcessId);
 			handle = OpenProcess(PROCESS_ALL_ACCESS, false, process);
+			return process;
 		}
 
 	} while (Process32Next(hProcessId, &pEntry));
-	return process;
+	return 0;
 }
 
 uintptr_t MemMan::getModule(DWORD procId, const char* modName)

@@ -1,2 +1,26 @@
 ﻿  main.cpp
+C:\Users\Idan\source\repos\Project\Project\main.cpp(240,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Idan\source\repos\Project\Project\main.cpp(240,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Idan\source\repos\Project\Project\main.cpp(241,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Idan\source\repos\Project\Project\main.cpp(241,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Idan\source\repos\Project\Project\main.cpp(287,29): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\Idan\source\repos\Project\Project\main.cpp(182): message : see declaration of 'Vector3'
+C:\Users\Idan\source\repos\Project\Project\main.cpp(287,54): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\Idan\source\repos\Project\Project\main.cpp(182): message : see declaration of 'Vector3'
+C:\Users\Idan\source\repos\Project\Project\main.cpp(288,20): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\Idan\source\repos\Project\Project\main.cpp(182): message : see declaration of 'Vector3'
+C:\Users\Idan\source\repos\Project\Project\main.cpp(306,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Idan\source\repos\Project\Project\main.cpp(321,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Idan\source\repos\Project\Project\main.cpp(321,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Idan\source\repos\Project\Project\main.cpp(541,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Idan\source\repos\Project\Project\main.cpp(541,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Idan\source\repos\Project\Project\main.cpp(541,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Idan\source\repos\Project\Project\main.cpp(541,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Idan\source\repos\Project\Project\main.cpp(546,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Idan\source\repos\Project\Project\main.cpp(546,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Idan\source\repos\Project\Project\main.cpp(546,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Idan\source\repos\Project\Project\main.cpp(546,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Idan\source\repos\Project\Project\main.cpp(563,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Idan\source\repos\Project\Project\main.cpp(563,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Idan\source\repos\Project\Project\main.cpp(369): warning C4172: returning address of local variable or temporary: var
   Project.vcxproj -> C:\Users\Idan\source\repos\Project\Debug\Project.exe
