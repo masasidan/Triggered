@@ -21,7 +21,7 @@ This cheat is pretty easy to use.
 You can't change the keybinds for different modules, they are all already have been set.
 By pressing different keybinds you can toggle on/off different modules and enjoy the cheat.
 
-## **Q&A**
+## **Common Questions**
 *For what reasons have you built this for?*
 > The only reason I've created this project is for educational purposes.
 > I've wanted to know if I'm able to do such thing.
