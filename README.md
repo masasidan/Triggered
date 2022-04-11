@@ -10,7 +10,7 @@ You can download the exe version of this cheat by clicking [here](https://github
 * GlowESP
 * Bunnyhop
 * Aimbot
-* ESP
+* BoxESP
 
 
 ## **Currently In Build Modules**
