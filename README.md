@@ -23,7 +23,7 @@ By pressing different keybinds you can toggle on/off different modules and enjoy
 
 ## **Common Asked Questions**
 ### *The box ESP isn't working properly, why does it happen and how do I fix that?*
-This may happen because you didn't update the offsets or because you're running CS:GO as fullscreen.
+This might happen because you didn't update the offsets or because you're running CS:GO as fullscreen.
 Please make sure the offsets you use are updated and you run CS:GO on windowed mode.
 
 ### *For what reasons have you built this for?*
